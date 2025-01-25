@@ -41,8 +41,7 @@
 ###
 
 <div align="center">
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungTooller)](https://github.com/anuraghazra/github-readme-stats)"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoungTooller&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngtooller&hide_progress=true)"/>
 </div>
 
 ###
