@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/9hx14s"  />
-</div>
+<img src="https://raw.githubusercontent.com/YoungTooller/YoungTooller/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -32,16 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngtooller&hide_progress=true)"/>
 </div>
 
 ###
