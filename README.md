@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YoungTooller/YoungTooller/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
