@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **In the past I developed games, but at the moment I have switched to a new direction and am studying wub-development. But sometimes I also devote time to games**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
