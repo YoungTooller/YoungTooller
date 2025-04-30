@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="center">In the past I developed games, but at the moment I have switched to a new direction and am studying wub-development. But sometimes I also devote time to games</h3>
+<h3 align="center">In the past I developed games, but at the moment I have switched to a new direction and am studying wеb-development. But sometimes I also devote time to games</h3>
 
 ###
 
